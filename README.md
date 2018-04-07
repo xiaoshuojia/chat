@@ -1,6 +1,28 @@
 # chat
 
-直接使用了`socket.io`官方给的例子，稍作修改，给参与聊天的用户起了个名字，不过都叫`xiaoming`
+#### 简介
+
+直接使用了`socket.io`[官方给的例子](https://socket.io/get-started/chat/)，稍作修改，给参与聊天的用户起了个名字，不过都叫`xiaoming`
+
+主要使用了`socket.io`和`express`两个库
+
+
+
+#### 安装运行
+
+直接下载代码，安装依赖
+
+```js
+npm install
+```
+
+运行
+
+```js
+node index.js
+```
+
+
 
 ### socket.io
 
